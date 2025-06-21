@@ -1,4 +1,28 @@
-# ml-iris-flask-app
-A simple machine learning web app built for practice, using Flask as the backend and a minimal frontend with HTML and Tailwind CSS. The model is trained on the Iris dataset (from sklearn.datasets) using a Decision Tree algorithm.
+# 🌸 Iris Flower Classification Web App
 
-Users can input flower features (sepal and petal length/width), and the app predicts the Iris species (Setosa, Versicolor, or Virginica). The model is serialized using pickle and integrated into the Flask app for real-time predictions.
+A simple machine learning web app built for practice using Flask and a lightweight frontend (HTML + Tailwind CSS). The model is trained on the Iris dataset using the `DecisionTreeClassifier` from scikit-learn, and predictions are served through a user-friendly web interface.
+
+---
+
+## 🚀 Features
+
+- Predicts Iris flower species (Setosa, Versicolor, Virginica)
+- Trained using scikit-learn's Decision Tree algorithm
+- Web interface built with Flask
+- Responsive styling using Tailwind CSS
+- Model serialized with `pickle` and used in real-time
+
+---
+
+## 🧠 Model Details
+- Dataset: Iris Dataset (sklearn)
+- Algorithm: Decision Tree Classifier
+- Library: scikit-learn
+- Serialization: Pickle
+
+---
+
+## Author
+- Faiz Ahmad
+- GitHub: @FaizAhmadDev
+- LinkedIn: linkedin.com/in/faizahmaddev
