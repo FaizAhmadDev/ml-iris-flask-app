@@ -14,7 +14,7 @@ A simple machine learning web app built for practice using Flask and a lightweig
 
 ---
 
-## 🧠 Model Details
+## Model Details
 - Dataset: Iris Dataset (sklearn)
 - Algorithm: Decision Tree Classifier
 - Library: scikit-learn
